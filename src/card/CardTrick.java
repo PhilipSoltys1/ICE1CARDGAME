@@ -12,7 +12,7 @@ package card;
  * Student #: 991739004
  */
 import java.util.Random;
-import java.util.Scanner;
+
 
 public class CardTrick {
     
